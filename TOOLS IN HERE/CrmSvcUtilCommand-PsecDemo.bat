@@ -1,0 +1,1 @@
+CrmSvcUtil.exe /url:https://psecdemo.api.crm.dynamics.com/XRMServices/2011/Organization.svc /out:entities.cs /username:anschult@psecdemo.onmicrosoft.com /password:CrmD3mo! /namespace:CrmClasses /serviceContextName:ProxyService /codewriterfilter:SvcUtilFilter.CodeWriterFilter,SvcUtilFilter

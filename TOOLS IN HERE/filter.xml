@@ -1,0 +1,7 @@
+﻿<filter>
+  <entities>
+    <entity>systemuser</entity>
+    <entity>contact</entity>
+    <entity>annotation</entity>
+  </entities>
+</filter>
